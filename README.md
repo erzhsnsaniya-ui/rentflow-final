@@ -1,4 +1,5 @@
 # RentFlow — Digital Equipment Rental & Leasing Platform
+**Team Members:** Saniya Yerzhan, Dildana Tuleussarinova, Maxim Yerep
 
 Interactive Single Page Application (SPA) prototype built for the Business Analysis Final Project (Team 01, ITM-2401, Astana IT University).
 
