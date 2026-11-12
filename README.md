@@ -6,7 +6,7 @@
 **RentFlow** is a two-sided digital marketplace for renting and leasing high-value equipment (cameras, laptops, audio gear, and presentation displays) in Astana, Kazakhstan. It replaces physical collateral (such as holding passports) with automated 5% Escrow security deposits, 12-digit IIN/BIN KYC verification, SMS-OTP Digital Offers, and an immutable SHA-256 Media Audit Trail.
 
 - **Live Web Prototype:** https://rentflow-kz.netlify.app/
-- **Demo Video (OneDrive — enable English CC for `TC-01`–`TC-10`):** `[ВСТАВЬ_СЮДА_ССЫЛКУ_НА_ONEDRIVE]`
+- **Demo Video (OneDrive — enable English CC for `TC-01`–`TC-10`):** [Watch Video Walkthrough](https://astanait-my.sharepoint.com/:v:/r/personal/241812_astanait_edu_kz/_layouts/15/stream.aspx?id=%2Fpersonal%2F241812_astanait_edu_kz%2FDocuments%2FTeam01_FP_Demo.mp4&share=cQqSy6nJHn6ERLGM0kUMuMVJEgUCtd2UJgVPomqZ7XXKEOH_Hw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0)
 
 ---
 
