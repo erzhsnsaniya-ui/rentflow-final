@@ -34,3 +34,27 @@ The prototype fully implements **22 of 24** functional requirements (all *Must-H
    ```bash
    git clone [https://github.com/erzhsnsaniya-ui/rentflow-final.git](https://github.com/erzhsnsaniya-ui/rentflow-final.git)
    cd rentflow-final
+   ```
+2. Open `index.html` directly in any modern browser (Chrome, Edge, Safari) or serve it via VS Code **Live Server** (`http://127.0.0.1:5500`).
+3. No build step or local backend installation is required — the SPA connects directly to the live Supabase cloud instance over HTTPS.
+
+---
+
+## Predefined Test Accounts (RBAC Roles)
+Use the following demo credentials to test role-based access control across the platform (additional roles can also be created via the registration modal):
+
+| Role | Email | Password | Key Capabilities |
+| :--- | :--- | :--- | :--- |
+| **Renter / User Account 1** | `plushekitten@gmail.com` | `1111` | Search catalog, book via SMS-OTP (`1234`), fund Escrow, leave reviews |
+| **Owner / User Account 2** | `bebrick@gmail.com` | `1111` | Create listings, upload SHA-256 handover media, confirm return / open dispute |
+| **Support Agent (Tier 1)** | `support@test.local` *(or register via UI)* | `1111` | Access Arbitration Hub, inspect Before/After media, execute deposit splits |
+| **Administrator (Tier 2)** | `admin@test.local` *(or register via UI)* | `1111` | Approve KYC & listings; strictly **Read-Only** in financial disputes |
+
+---
+
+## Team Members (Team 01, ITM-2401)
+- **Saniya Yerzhan** (`241812@astanait.edu.kz`)
+- **Dildana Tuleussarinova** (`240015@astanait.edu.kz`)
+- **Maxim Yerep** (`240020@astanait.edu.kz`)
+
+```
