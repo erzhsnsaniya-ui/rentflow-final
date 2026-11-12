@@ -32,7 +32,7 @@ The prototype fully implements **22 of 24** functional requirements (all *Must-H
 ## Local Installation & Setup
 1. Clone the repository or download `index.html`:
    ```bash
-   git clone [https://github.com/erzhsnsaniya-ui/rentflow-final.git](https://github.com/erzhsnsaniya-ui/rentflow-final.git)
+   git clone (https://github.com/erzhsnsaniya-ui/rentflow-final.git)
    cd rentflow-final
    ```
 2. Open `index.html` directly in any modern browser (Chrome, Edge, Safari) or serve it via VS Code **Live Server** (`http://127.0.0.1:5500`).
@@ -57,4 +57,3 @@ Use the following demo credentials to test role-based access control across the 
 - **Dildana Tuleussarinova** (`240015@astanait.edu.kz`)
 - **Maxim Yerep** (`240020@astanait.edu.kz`)
 
-```
